@@ -1,4 +1,5 @@
-Instruções para Executar o Projeto de Sistema de Alarme (Projeto de extensão Curso Ciências da Computação)
+Projeto de Extensão - Curso de Ciências da Computação
+Instruções para Executar o Projeto de Sistema de Alarme.
 Este projeto simula um sistema de alarme simples, controlado por comandos via terminal. Ele foi desenvolvido em Node.js e utiliza sensores de presença simulados para detectar movimentos, disparar o alarme e permitir que o usuário ative ou desative o sistema manualmente.
 
 Pré-requisitos
